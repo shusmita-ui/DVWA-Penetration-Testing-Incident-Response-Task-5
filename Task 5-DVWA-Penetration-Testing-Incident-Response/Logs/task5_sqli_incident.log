@@ -1,0 +1,1 @@
+127.0.0.1 - - [05/Oct/2026:01:10:35 +0530] "GET /DVWA/vulnerabilities/sqli/?id=1%27+OR+%271%27%3D%271&Submit=Submit HTTP/1.1" 200 2019 "http://127.0.0.1/DVWA/vulnerabilities/sqli/?id=1&Submit=Submit" "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
